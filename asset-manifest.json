@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0318309.css",
+    "main.js": "/static/js/main.0e72cb55.js",
+    "static/js/496.caaa4ee0.chunk.js": "/static/js/496.caaa4ee0.chunk.js",
+    "static/media/lobby.m4a": "/static/media/lobby.1c4ffbfa32a26278b5ef.m4a",
+    "static/media/lobby-2.m4a": "/static/media/lobby-2.a4edd9592d3c1d131fd4.m4a",
+    "static/media/gained-heart.wav": "/static/media/gained-heart.18d99bf30468edacb6bc.wav",
+    "static/media/bonus-letter.mp3": "/static/media/bonus-letter.7aeefab885f66fc35d15.mp3",
+    "static/media/winner.mp3": "/static/media/winner.d605c5075032c5172994.mp3",
+    "static/media/boom.mp3": "/static/media/boom.ae33fd933268df8e0304.mp3",
+    "static/media/beep.mp3": "/static/media/beep.e47921c1a34ec6909bf0.mp3",
+    "static/media/leaving.mp3": "/static/media/leaving.3af43898944b42d41fa4.mp3",
+    "static/media/joining.mp3": "/static/media/joining.194bb51c28bdd3fded23.mp3",
+    "static/media/valid.mp3": "/static/media/valid.525e43b982718b3d93e8.mp3",
+    "static/media/beep-end.mp3": "/static/media/beep-end.34c6d1e80c74971635a5.mp3",
+    "static/media/error.mp3": "/static/media/error.c3f47ae4c5173fec5822.mp3",
+    "static/media/bomb.svg": "/static/media/bomb.1cb4ea72cc9c89dca19fe523f900ec26.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.59cf84986eba40cb12da2299f1213246.svg",
+    "main.f0318309.css.map": "/static/css/main.f0318309.css.map",
+    "main.0e72cb55.js.map": "/static/js/main.0e72cb55.js.map",
+    "496.caaa4ee0.chunk.js.map": "/static/js/496.caaa4ee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0318309.css",
+    "static/js/main.0e72cb55.js"
+  ]
+}
