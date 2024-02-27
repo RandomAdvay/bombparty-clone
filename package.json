@@ -1,4 +1,5 @@
 {
+  "homepage": "http://bombparty-clone.github.io",
   "name": "@laosing/bombparty-clone",
   "version": "0.0.0",
   "private": true,
@@ -8,8 +9,9 @@
   "scripts": {
     "dev": "concurrently 'nodemon index.js' 'cd client && yarn && yarn start'",
     "start": "node index.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "cd client && yarn && yarn build",
-    "deploy": "fly deploy --remote-only",
     "test": "cd client && yarn test"
   },
   "dependencies": {
@@ -29,5 +31,7 @@
     "serialize-javascript": "^6.0.0",
     "socket.io": "^4.5.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
