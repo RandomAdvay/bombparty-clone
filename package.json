@@ -1,5 +1,4 @@
 {
-  "homepage": "http://bombparty-clone.github.io",
   "name": "@laosing/bombparty-clone",
   "version": "0.0.0",
   "private": true,
@@ -9,8 +8,6 @@
   "scripts": {
     "dev": "concurrently 'nodemon index.js' 'cd client && yarn && yarn start'",
     "start": "node index.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d client/build",
     "build": "cd client && yarn && yarn build",
     "test": "cd client && yarn test"
   },
